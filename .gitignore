@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Toonii mashin
+/Toonii mashin/bin/Debug/net8.0-windows/Toonii mashin.deps.json
+/Toonii mashin/bin/Debug/net8.0-windows/Toonii mashin.dll
+/Toonii mashin/bin/Debug/net8.0-windows/Toonii mashin.exe
+/Toonii mashin/bin/Debug/net8.0-windows/Toonii mashin.pdb
+/Toonii mashin/bin/Debug/net8.0-windows/Toonii mashin.runtimeconfig.json
+/Toonii mashin
